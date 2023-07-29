@@ -1,8 +1,12 @@
-[{
-      "relation": ["delegate_permission/common.handle_all_urls"],
-      "target": {
-        "namespace": "android_app",
-        "package_name": "com.onrender.percentage_timer.twa",
-        "sha256_cert_fingerprints": ["0E:26:D9:F4:E7:3B:8C:12:C3:1B:98:8E:0A:E5:E7:3E:89:90:70:B8:F4:B5:0A:9F:6F:34:70:EA:91:E3:9E:54"]
-      }
-    }]
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.onrender.percentage_timer.twa",
+      "sha256_cert_fingerprints": [
+        "D2:94:5B:E9:F6:8D:EA:A2:C1:BA:34:EB:08:F0:D7:60:53:D1:4B:E9:74:A2:38:58:72:36:4A:6A:64:44:BA:6D"
+      ]
+    }
+  }
+]
